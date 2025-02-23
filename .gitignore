@@ -127,4 +127,4 @@ nb-configuration.xml
 /composer.lock
 /package-lock.json
 /public/libs/**/*
-/public/libs/node_modules
+/public/libs/node_modules/
