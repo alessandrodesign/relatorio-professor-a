@@ -8,7 +8,12 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "sourceMap": true,
-    "outDir": "./public/assets/js"
+    "rootDir": ".",
+    "outDir": "./public/assets/js",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["public/assets/ts/*"]
+    }
   },
   "include": ["public/assets/ts/**/*"]
 }

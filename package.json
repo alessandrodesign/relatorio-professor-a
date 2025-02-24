@@ -1,15 +1,18 @@
 {
   "dependencies": {
+    "@sweetalert2/themes": "^5.0.27",
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "sweetalert2": "^11.17.2"
   },
   "devDependencies": {
     "@types/axios": "^0.9.36",
     "@types/jquery": "^3.5.32",
     "copy-webpack-plugin": "^12.0.2",
     "css-loader": "^7.1.2",
+    "glob": "^11.0.1",
     "style-loader": "^4.0.0",
     "ts-loader": "^9.5.2",
     "typescript": "^5.7.3",
